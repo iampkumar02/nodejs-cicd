@@ -1,4 +1,4 @@
-# Nodejs-Todo-CICD
+# Nodejs-Todo-CICD with Github Integration
 
 Run these commands:
 
