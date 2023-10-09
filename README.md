@@ -1,4 +1,4 @@
-# node-todo-cicd
+# Nodejs-Todo-CICD
 
 Run these commands:
 
